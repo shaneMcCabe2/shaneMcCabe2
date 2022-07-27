@@ -1,6 +1,6 @@
 Hi, I’m Shane
 
-- I’m interested in data engineering and analytics, behavioral economics, statistics, and of course fantasy novels.
+- I’m interested in data engineering and analytics, behavioral economics, statistics, and most of all fantasy novels.
 - Please note most of my projects here are in progress
 - I’m currently working to expand my software/data engineering capabilities
 - How to reach me: shane.mccabe27@gmail.com
