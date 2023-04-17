@@ -4,6 +4,5 @@ Hi, I’m Shane
 - Please note most of my projects here are in progress
 - I’m currently working to expand my data engineering and data science capabilities
 - How to reach me: shane.mccabe27@gmail.com
-- Check out my Tableau Resume: https://public.tableau.com/app/profile/shane.mccabe/viz/ShaneMcCabe-TableauResume/TableauResume
 
 Have a wonderful day :)
